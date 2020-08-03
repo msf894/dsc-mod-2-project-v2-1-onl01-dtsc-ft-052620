@@ -78,7 +78,7 @@ For this purpose, having a lower bedroom/bathroom ratio is highly desirable as i
 
 # Modeling Home Prices:
 
-Creating a linear regression model for the home prices went through a number of iterative processes. Multiple models were tried out and iterated upon to find out the best model for measuring home prices. Ultimately, the final model that was settled on produced a R-Squared value of 0.69, meaning that the model explains 69% of the variability of the house prices around its mean.
+Creating a linear regression model for the home prices went through a number of iterative processes. Multiple models were tried out and iterated upon to find out the best model for measuring home prices. Ultimately, the final model that was settled on produced a R-Squared value of 0.712, meaning that the model explains roughly 71% of the variability of the house prices around its mean.
 
 # Future Studies:
 
