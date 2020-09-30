@@ -1,4 +1,4 @@
-# Introduction:
+# Evaluating Home Price Trends for Buyers in King County
 
 The process of purchasing a new home is one that takes a considerable amount of diligence. Most purchasers set out to buy a home as a way of creating a permanent residence for them and their families. As a result, buyers go through several visits and deliberations before finally being able to settle in on the home they will live in for the rest of their lives. The focus of this project is based on housing sale data based in King County, WA. In order to help first time home buyers, I set out to answer several questions in order to help buyers. In addition, I created a linear regression model in order to help determine what are the key factors in determining a house's price.
 
@@ -95,3 +95,5 @@ Bedrooms and bathrooms are important when picking out a house but so are a numbe
 * **How does proximity to public amenities affect a home’s price?**
 
 Having easy access to amenities like parks, popular restaurants, and public transportation are all desirable features when evaluating a neighborhood. I want to observe whether living close to such attractions corresponds to high home prices.
+
+Link to Medium blog for this project: https://medium.com/@msf894/flatiron-school-project-2-king-county-housing-dataset-d123dc9b6b3f
